@@ -21,8 +21,7 @@ h3 {
 }
 
 ul {
-  list-style-type;
-  none,
+  list-style-type:none;
   padding: 0;
 }
 
@@ -32,7 +31,6 @@ li {
 }
 
 a {
-  color;
-  #42b983;
+  color: #42b983;
 }
 </style>
