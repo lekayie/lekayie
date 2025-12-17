@@ -1,7 +1,7 @@
 ## Hi there , I am Lekayie
 
-- 🔭 I’m currently working on House finding and management web solution...
-- 👯 I’m looking to collaborate on Web projects more specifically Ecommerce...
+- 🔭 I’m currently working on House hunting and management web solution...
+- 👯 I’m looking to collaborate on Web projects more specifically Ecommerce, blockchain...
 - 🔭 I am also interested in AI - Data science and Web AI integration.
 - 📫 How to reach me: jlekayie@gmail.com ...
 - 🌱 I’m currently enhancing my knowledge on Full Stack Engineering on Codecademy, Combining:
@@ -27,8 +27,7 @@
   - Embedded System
 
   </details>
-
-- ⚡ Fun fact: I love tea(Kenyan tea)...
+  
 <!--
 **lekayie/lekayie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
