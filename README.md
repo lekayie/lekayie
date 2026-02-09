@@ -1,23 +1,11 @@
 ## Hi there , I am Lekayie
 
-- 🔭 I’m currently working on House hunting and management web solution...
-- 👯 I’m looking to collaborate on Web projects more specifically Ecommerce, blockchain...
+- 🔭 I’m currently working on Data analytics plarform...
+- 👯 I’m looking to collaborate on Software projects ...
 - 🔭 I am also interested in AI - Data science and Web AI integration.
 - 📫 How to reach me: jlekayie@gmail.com ...
-- 🌱 I’m currently enhancing my knowledge on Full Stack Engineering on Codecademy, Combining:
+- 🌱 I’m currently enhancing my knowledge on Cloud Computing (with AWS) and Machine Learning with Python
 
-  - Web Development Foundations (HTML + CSS)
-  - JavaScript
-  - Javascript testing
-  - Git and GitHub
-  - React + Redux ...
-  - Express.js
-  - Back-end Feature testing
-  - Advanced PostgreSQL
-  - API Development with Swagger and OpenAPI
-  - Web security fundamentals
-  - Data Security
-  - DevOps Fundamentals
 
   <details>
   <summary> Interests</summary>
